@@ -26,9 +26,9 @@ This column seeks to passively share information about conferences, summer schoo
 This column has two purposes. The first is that young researchers can use Complexity Cat as a reference for job searches. Here we will publicize open positions as associate professor/lecturer, postdoctoral researcher opportunities, as well as doctoral and master's degree programs, all focused on complex systems or multidisciplinary science in general. The second goal of this column is to be a networking medium for young researchers. If you are looking for new collaborators, or just to let people know about your work, you can send us a short piece telling us about your background, skills and interests. We will take care of publishing this information and spreading the word on our Twitter/X account (@amahury0). In the near future I would also like to use this section to publish Q&As with researchers with a well established career. The idea is to use such interviews at the same time to disseminate their lines of research and inspire researchers who are just starting out. 
 <br/><br/><br/>
 #### Glossary ####
-\\
+\
 Complexity Cat not only seeks to disseminate everything related to complex systems, but also to be an educational medium. To that end, this section is dedicated to compile definitions, models, tools and theories related to complexity science. Being an interdisciplinary field, there are many concepts in the literature that can be ambiguous, redundant or similar to each other (even though they are not related as such). This column seeks to contrast these concepts with each other, following a chronological order and bringing with it historical notes that may help to better understand the context in which these frameworks were developed. 
-\\
+\
 <br/><br/><br/>
 #### Fiction ####
 <br/><br/><br/>
