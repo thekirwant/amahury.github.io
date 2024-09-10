@@ -6,6 +6,7 @@ order: 4
 <p align="justify">
 Since 2023 I started using my Twitter/X account (@amahury0) as a communication channel that seeks to disseminate inter-, trans- and multi-disciplinary science. At first, I focused on transmitting news, papers and essays dedicated to complex systems, theoretical biology, artificial intelligence, linguistics, neuroscience and their intersections. Later, when I had the opportunity to attend different international academic events, I decided to use this channel to follow up on these conferences and summer schools. Today ***Complexity Cat*** has evolved into a weekly journalistic blog, an independent and non-profit media that seeks to communicate everything related to complexity science. The structure of ***Complexity Cat*** is composed of five columns, each with different purposes, which are described below.
 <br/><br/><br/>
+  
 - #### **Opinion**
 
   
