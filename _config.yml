@@ -17,6 +17,28 @@ timezone: America/New_York
 #Here I will add the feed plugin
 plugins:
   - jekyll-feed
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - Atom
+
+outputFormats:
+  RSS:
+    mediatype: "application/rss+xml"
+    baseName: "rss"
+  Atom:
+    mediatype: "application/atom+xml"
+    baseName: "atom"
+
+mediaTypes:
+  application/rss+xml:
+    suffixes:
+      - xml
+  application/atom+xml:
+    suffixes:
+      - xml
   
 title: Complexity Cat # the main title
 
