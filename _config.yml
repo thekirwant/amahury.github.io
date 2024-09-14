@@ -16,7 +16,7 @@ timezone: America/New_York
 
 #Here I will add the feed plugin
 plugins:
-  - jekyll-feed
+ — jekyll-feed
   
 title: Complexity Cat # the main title
 
