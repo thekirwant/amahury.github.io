@@ -2,6 +2,8 @@
 layout: home
 # Index page
 ---
+<a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 
 <!-- modify this form HTML and place wherever you want your form -->
