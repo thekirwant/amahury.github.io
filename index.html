@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Newsletter</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Bienvenido a Mi Newsletter</h1>
-        <p>Suscríbete para recibir las últimas actualizaciones.</p>
-    </header>
+---
+layout: home
+# Index page
+---
+<a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
 
-    <section id="newsletter-form">
-        <form action="https://formspree.io/f/tuID" method="POST">
-            <label for="email">Correo electrónico:</label>
-            <input type="email" id="email" name="email" required>
-            <button type="submit">Suscribirse</button>
-        </form>
-    </section>
-    
-    <footer>
-        <p>© 2024 Mi Newsletter</p>
-    </footer>
-</body>
-</html>
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+
