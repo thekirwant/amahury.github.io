@@ -15,8 +15,8 @@ timezone: America/New_York
 # ↓ --------------------------
 
 #Here I will add the feed plugin
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 outputs:
   home:
