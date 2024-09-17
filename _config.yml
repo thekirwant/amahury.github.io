@@ -51,7 +51,7 @@ description: >- # used by seo meta and the atom feed
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://amahury.github.io"
 
-feed.path: "https://amahury.github.io/assets"
+#feed.path: "https://amahury.github.io/assets"
 
 github:
   username: amahury # change to your github username
